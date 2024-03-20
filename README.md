@@ -5,12 +5,12 @@ a practice project of rollup-plugin
 # Install
 Using pnpm:
 ```
-    pnpm install
+pnpm install
 ```
 # Usage
 Create a rollup.config.js  configuration file and import the plugin:
 
-```
+```javaScript
 import { defineConfig } from 'rollup';
 import { alias } from 'alias'
 
