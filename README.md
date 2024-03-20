@@ -46,7 +46,7 @@ exmaple 文件 => package.json => devDependencies 会出现 `"alias": "link:.."`
 
 # vitest 单元测试
 创建 `index.spec.ts` 文件
-```
+``` TypeScript
 import { describe, it, expect } from 'vitest'
 import { alias } from '.'
 
