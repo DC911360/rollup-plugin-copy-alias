@@ -99,6 +99,12 @@ describe("alias", () => {
 
 })
 ```
+
+
+# [Rollup Plugin](https://rollupjs.org/plugin-development/#build-hooks)
+Build Hooks
+![alt text](image.png)
+
 # Tip
 - plugin 是一个函数，需要返回一个对象
 - 程序 = 数据结构 + 算法
