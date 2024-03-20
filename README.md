@@ -2,7 +2,7 @@
 a practice project of rollup-plugin
 
 
-# Install
+# Install 
 Using pnpm:
 ```
 pnpm install
@@ -29,3 +29,8 @@ export default defineConfig({
     ],
 })
 ```
+
+# Deppendency list
++@rollup/plugin-typescript // ts plugin
++rollup
++vitest //单元测试工具
