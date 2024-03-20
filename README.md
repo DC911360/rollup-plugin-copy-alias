@@ -107,5 +107,8 @@ Build Hooks
 ![alt text](image.png)
 
 # Tip
+- 本地调试 ✅
+- 单测试  ✅
+- 发布 npm   ❌
 - plugin 是一个函数，需要返回一个对象
 - 程序 = 数据结构 + 算法
