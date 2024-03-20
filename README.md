@@ -31,6 +31,6 @@ export default defineConfig({
 ```
 
 # Deppendency list
-+@rollup/plugin-typescript // ts plugin
-+rollup
-+vitest //单元测试工具
++ @rollup/plugin-typescript // ts plugin
++ rollup
++ vitest //单元测试工具
